@@ -1,0 +1,13 @@
+TestNG -- Unit Test FrameWork.
+TDD Framework -- Test Driven Development
+Purpose -- Design test Cases In A Systematic Way.
+		--HTML Reports
+		--Different Annotations
+		--Dependency
+		--Priorities/sequence
+		--Grouping
+		--Data Provider Setup
+Licence -- Open Source, Freely available in Market
+JAR Files
+--Java Unit Testing FrameWork (TestNG and Junit both are used only for Java)
+Install TestNG in Eclipse
